@@ -1,1 +1,1 @@
-My first readme.md Tips
+another readme for 0x01-git
